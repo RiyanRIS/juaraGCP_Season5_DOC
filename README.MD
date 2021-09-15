@@ -33,7 +33,10 @@ Video Intelligence: Qwik Start
 - Implement a Helpdesk Chatbot with Dialogflow & BigQuery ML GSP431 **_DONE_** _https://www.youtube.com/watch?v=jwdm4yMVIBc_
 - Create ML Models with BigQuery ML: Challenge Lab
 
-## 5. Engineer Data in Google Cloud
+## 5. Build and Optimize Data Warehouses with BigQuery
+
+
+## 6. Engineer Data in Google Cloud
 - Creating a Data Transformation Pipeline with Cloud Dataprep GSP430 **_DONE_**
 - Building an IoT Analytics Pipeline on Google Cloud GSP088 **_DONE_**
 - ETL Processing on Google Cloud Using Dataflow and BigQuery GSP290 **_DONE_**
