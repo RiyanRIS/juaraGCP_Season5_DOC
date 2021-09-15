@@ -34,7 +34,13 @@ Video Intelligence: Qwik Start
 - Create ML Models with BigQuery ML: Challenge Lab
 
 ## 5. Build and Optimize Data Warehouses with BigQuery
-
+- BigQuery: Qwik Start - Command Line **_DONE_**
+- Creating a Data Warehouse Through Joins and Unions **_DONE_**
+- Creating Date-Partitioned Tables in BigQuery **_DONE_**
+- Troubleshooting and Solving Data Join Pitfalls **_DONE_**
+- Working with JSON, Arrays, and Structs in BigQuery **_DONE_**
+- Build and Execute MySQL, PostgreSQL, and SQLServer to Data Catalog Connectors **_DONE_**
+- Build and Optimize Data Warehouses with BigQuery: Challenge Lab
 
 ## 6. Engineer Data in Google Cloud
 - Creating a Data Transformation Pipeline with Cloud Dataprep GSP430 **_DONE_**
