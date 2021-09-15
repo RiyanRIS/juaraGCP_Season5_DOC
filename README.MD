@@ -38,6 +38,6 @@ Video Intelligence: Qwik Start
 - Building an IoT Analytics Pipeline on Google Cloud GSP088 **_DONE_**
 - ETL Processing on Google Cloud Using Dataflow and BigQuery GSP290 **_DONE_**
 - Predict Visitor Purchases with a Classification Model in BQML **_DONE_** _https://www.youtube.com/watch?v=vKDdKOOjqQ8_
-- Predict Housing Prices with Tensorflow and AI Platform GSP418 **_DONE_**
-- Cloud Composer: Copying BigQuery Tables Across Different Locations
+- Predict Housing Prices with Tensorflow and AI Platform GSP418  **_DONE_**
+- Cloud Composer: Copying BigQuery Tables Across Different Locations GSP283 **_DONE_**
 - Engineer Data in Google Cloud: Challenge Lab
