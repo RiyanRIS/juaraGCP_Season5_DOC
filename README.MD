@@ -36,7 +36,7 @@ Video Intelligence: Qwik Start
 ## 5. Engineer Data in Google Cloud
 - Creating a Data Transformation Pipeline with Cloud Dataprep GSP430 **_DONE_**
 - Building an IoT Analytics Pipeline on Google Cloud GSP088 **_DONE_**
-- ETL Processing on Google Cloud Using Dataflow and BigQuery
+- ETL Processing on Google Cloud Using Dataflow and BigQuery GSP290 **_DONE_**
 - Predict Visitor Purchases with a Classification Model in BQML **_DONE_** _https://www.youtube.com/watch?v=vKDdKOOjqQ8_
 - Predict Housing Prices with Tensorflow and AI Platform
 - Cloud Composer: Copying BigQuery Tables Across Different Locations
