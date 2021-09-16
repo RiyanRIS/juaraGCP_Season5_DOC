@@ -56,6 +56,6 @@ Video Intelligence: Qwik Start
 - Extract, Analyze, and Translate Text from Images with the Cloud ML APIs GSP075 **_DONE_**
 - Classify Text into Categories with the Natural Language API GSP063 **_DONE_**
 - Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API GSP037 **_DONE_**
-- Entity and Sentiment Analysis with the Natural Language API
+- Entity and Sentiment Analysis with the Natural Language API GSP038 
 - Awwvision: Cloud Vision API from a Kubernetes Cluster
 - Integrate with Machine Learning APIs: Challenge Lab
