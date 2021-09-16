@@ -60,9 +60,19 @@ Video Intelligence: Qwik Start
 - Awwvision: Cloud Vision API from a Kubernetes Cluster GSP066 **_DONE_**
 - Integrate with Machine Learning APIs: Challenge Lab
 
-## 8. BigQuery Basics for Data Analysts
-- Introduction to SQL for BigQuery and Cloud SQL
+## 8. BigQuery Basics for Data Analysts _DONE OTOMATIS_
+- Introduction to SQL for BigQuery and Cloud SQL GSP281 
 - BigQuery: Qwik Start - Console
 - Exploring Your Ecommerce Dataset with SQL in Google BigQuery
 - Troubleshooting Common SQL Errors with BigQuery
 - Explore and Create Reports with Data Studio
+
+## 9. BigQuery for Marketing Analysts
+- Exploring Your Ecommerce Dataset with SQL in Google BigQuery
+- Explore and Create Reports with Data Studio
+- Creating Permanent Tables and Access-Controlled Views in BigQuery
+- Ingesting New Datasets into BigQuery
+- How to Build a BI Dashboard Using Google Data Studio and BigQuery
+- Data Catalog: Qwik Start
+- Exploring Dataset Metadata Between Projects with Data Catalog
+- Build and Execute MySQL, PostgreSQL, and SQLServer to Data Catalog Connectors
