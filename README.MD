@@ -50,3 +50,12 @@ Video Intelligence: Qwik Start
 - Predict Housing Prices with Tensorflow and AI Platform GSP418 **_DONE_**
 - Cloud Composer: Copying BigQuery Tables Across Different Locations GSP283 **_DONE_**
 - Engineer Data in Google Cloud: Challenge Lab
+
+## 7. Integrate with Machine Learning APIs
+- Introduction to APIs in Google GSP294 **_DONE_**
+- Extract, Analyze, and Translate Text from Images with the Cloud ML APIs
+- Classify Text into Categories with the Natural Language API
+- Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API
+- Entity and Sentiment Analysis with the Natural Language API
+- Awwvision: Cloud Vision API from a Kubernetes Cluster
+- Integrate with Machine Learning APIs: Challenge Lab
