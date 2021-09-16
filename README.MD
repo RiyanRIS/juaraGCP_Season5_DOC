@@ -6,8 +6,8 @@
 - Dataflow: Qwik Start - Python **_DONE_** _https://www.youtube.com/watch?v=cTYHkBV_LEY_
 - Dataproc: Qwik Start - Console **_DONE_** _https://www.youtube.com/watch?v=gWjQB7ME9pA_
 - Cloud Natural Language API: Qwik Start **_DONE_** _https://www.youtube.com/watch?v=A3FYF2W2xWw_
-- Google Cloud Speech API: Qwik Start
-Video Intelligence: Qwik Start
+- Google Cloud Speech API: Qwik Start GSP119 **_DONE_** 
+- Video Intelligence: Qwik Start
 - Perform Foundational Data, ML, and AI Tasks in Google Cloud: Challenge Lab
 
 ## 2. Insights from Data with BigQuery _Introductory_
@@ -72,16 +72,16 @@ Video Intelligence: Qwik Start
 - Explore and Create Reports with Data Studio **_DONE_**
 - Creating Permanent Tables and Access-Controlled Views in BigQuery GSP410 **_DONE_**
 - Ingesting New Datasets into BigQuery GSP411 **_DONE_**
-- How to Build a BI Dashboard Using Google Data Studio and BigQuery
+- How to Build a BI Dashboard Using Google Data Studio and BigQuery GSP403 **_DONE_**
 - Data Catalog: Qwik Start GSP729 **_DONE_**
-- Exploring Dataset Metadata Between Projects with Data Catalog
+- Exploring Dataset Metadata Between Projects with Data Catalog GSP789 **_DONE_**
 - Build and Execute MySQL, PostgreSQL, and SQLServer to Data Catalog Connectors **_DONE_**
 
 ## 10. Data Catalog Fundamentals _Fundamental_
 - Introduction to SQL for BigQuery and Cloud SQL **_DONE_** _https://www.youtube.com/watch?v=eUYPEdoozaM_
 - Using BigQuery in the Google Cloud Console GSP406 **_DONE_**
 - Data Catalog: Qwik Start GSP729 **_DONE_**
-- Exploring Dataset Metadata Between Projects with Data Catalog
+- Exploring Dataset Metadata Between Projects with Data Catalog GSP789 **_DONE_**
 - Build and Execute MySQL, PostgreSQL, and SQLServer to Data Catalog Connectors **_DONE_**
 
 ## 11. Building Codeless Pipelines on Cloud Data Fusion _Fundamental_
@@ -124,9 +124,9 @@ Video Intelligence: Qwik Start
 - Exploring the Lineage of Data with Cloud Data Fusion
 
 ## 16. NCAA® March Madness®: Bracketology with Google Cloud _Fundamental_
-- Using BigQuery in the Google Cloud Console **_DONE_**
+- Using BigQuery in the Google Cloud Console GSP406 **_DONE_**
 - Introduction to SQL for BigQuery and Cloud SQL  **_DONE_** _https://www.youtube.com/watch?v=eUYPEdoozaM_
-- Exploring NCAA Data with BigQuery
+- Exploring NCAA Data with BigQuery GSP160 **_DONE_**
 - Bracketology with Google Machine Learning GSP461 **_DONE_** _https://www.youtube.com/watch?v=FZxgm_ewpZM_
 
 ## 17. Applied Data: Blockchain _Advanced_
