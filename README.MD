@@ -57,5 +57,12 @@ Video Intelligence: Qwik Start
 - Classify Text into Categories with the Natural Language API GSP063 **_DONE_**
 - Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API GSP037 **_DONE_**
 - Entity and Sentiment Analysis with the Natural Language API GSP038 **_DONE_**
-- Awwvision: Cloud Vision API from a Kubernetes Cluster
+- Awwvision: Cloud Vision API from a Kubernetes Cluster GSP066 **_DONE_**
 - Integrate with Machine Learning APIs: Challenge Lab
+
+## 8. BigQuery Basics for Data Analysts
+- Introduction to SQL for BigQuery and Cloud SQL
+- BigQuery: Qwik Start - Console
+- Exploring Your Ecommerce Dataset with SQL in Google BigQuery
+- Troubleshooting Common SQL Errors with BigQuery
+- Explore and Create Reports with Data Studio
