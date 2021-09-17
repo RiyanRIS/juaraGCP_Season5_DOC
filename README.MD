@@ -119,7 +119,7 @@
 
 ## 15. Building Advanced Codeless Pipelines on Cloud Data Fusion _Advanced_
 - Building Dynamic Pipelines in Cloud Data Fusion Using Macros GSP809 **_DONE_**
-- Creating Reusable Pipelines in Cloud Data Fusion **_DONE_** 
+- Creating Reusable Pipelines in Cloud Data Fusion **_DONE_**
 - Redacting Confidential Data within your Pipelines in Cloud Data Fusion
 - Exploring the Lineage of Data with Cloud Data Fusion
 
