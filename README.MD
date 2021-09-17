@@ -7,8 +7,8 @@
 - Dataproc: Qwik Start - Console **_DONE_** _https://www.youtube.com/watch?v=gWjQB7ME9pA_
 - Cloud Natural Language API: Qwik Start **_DONE_** _https://www.youtube.com/watch?v=A3FYF2W2xWw_
 - Google Cloud Speech API: Qwik Start GSP119 **_DONE_** 
-- Video Intelligence: Qwik Start
-- Perform Foundational Data, ML, and AI Tasks in Google Cloud: Challenge Lab
+- Video Intelligence: Qwik Start GSP154 **_DONE_**
+- Perform Foundational Data, ML, and AI Tasks in Google Cloud: Challenge Lab **_DONE_**
 
 ## 2. Insights from Data with BigQuery _Introductory_
 - Introduction to SQL for BigQuery and Cloud SQL GSP218 **_DONE_** _https://www.youtube.com/watch?v=eUYPEdoozaM_
@@ -16,14 +16,14 @@
 - Exploring Your Ecommerce Dataset with SQL in Google BigQuery GSP407 **_DONE_** _https://www.youtube.com/watch?v=oxPZ7t7w8N8_
 - Troubleshooting Common SQL Errors with BigQuery GSP408 **_DONE_** _https://www.youtube.com/watch?v=WIcZ7KnLmuI_
 - Explore and Create Reports with Data Studio GSP409 **_DONE_** _https://www.youtube.com/watch?v=a_j4_0SmiUE_
-- Insights from Data with BigQuery: Challenge Lab
+- Insights from Data with BigQuery: Challenge Lab **_DONE_**
 
 ## 3. Exploring Data with Looker _Introductory_
 - Looker Data Explorer - Qwik Start GSP718 **_DONE_** _https://www.youtube.com/watch?v=KGymBcBi-Rg_
 - Filtering and Sorting Data in Looker GSP855 **_DONE_** _https://www.youtube.com/watch?v=BFndhZibMoI_
 - Merging Results from Different Explores in Looker GSP856 **_DONE_** _https://www.youtube.com/watch?v=cqYxqPyT9FM_
 - Looker Functions and Operators GSP857 **_DONE_** _https://www.youtube.com/watch?v=AGSLkLgeOh4_
-- Exploring Data with Looker: Challenge Lab GSP346
+- Exploring Data with Looker: Challenge Lab GSP346 **_DONE_**
 
 ## 4. Create ML Models with BigQuery ML _Fundamental_
 - Getting Started with BQML GSP247 **_DONE_** _https://www.youtube.com/watch?v=dYVfpPwvjqY_
@@ -31,7 +31,7 @@
 - Predict Taxi Fare with a BigQuery ML Forecasting Model GSP246 **_DONE_** _https://www.youtube.com/watch?v=-Mjr7ERRzQ4_
 - Bracketology with Google Machine Learning GSP461 **_DONE_** _https://www.youtube.com/watch?v=FZxgm_ewpZM_
 - Implement a Helpdesk Chatbot with Dialogflow & BigQuery ML GSP431 **_DONE_** _https://www.youtube.com/watch?v=jwdm4yMVIBc_
-- Create ML Models with BigQuery ML: Challenge Lab
+- Create ML Models with BigQuery ML: Challenge Lab **_DONE_**
 
 ## 5. Build and Optimize Data Warehouses with BigQuery _Fundamental_
 - BigQuery: Qwik Start - Command Line **_DONE_**
@@ -40,7 +40,7 @@
 - Troubleshooting and Solving Data Join Pitfalls **_DONE_**
 - Working with JSON, Arrays, and Structs in BigQuery **_DONE_**
 - Build and Execute MySQL, PostgreSQL, and SQLServer to Data Catalog Connectors **_DONE_**
-- Build and Optimize Data Warehouses with BigQuery: Challenge Lab
+- Build and Optimize Data Warehouses with BigQuery: Challenge Lab **_DONE_**
 
 ## 6. Engineer Data in Google Cloud _Advanced_
 - Creating a Data Transformation Pipeline with Cloud Dataprep GSP430 **_DONE_**
@@ -49,7 +49,7 @@
 - Predict Visitor Purchases with a Classification Model in BQML **_DONE_** _https://www.youtube.com/watch?v=vKDdKOOjqQ8_
 - Predict Housing Prices with Tensorflow and AI Platform GSP418 **_DONE_**
 - Cloud Composer: Copying BigQuery Tables Across Different Locations GSP283 **_DONE_**
-- Engineer Data in Google Cloud: Challenge Lab
+- Engineer Data in Google Cloud: Challenge Lab **_DONE_**
 
 ## 7. Integrate with Machine Learning APIs _Advanced_
 - Introduction to APIs in Google GSP294 **_DONE_**
@@ -58,14 +58,14 @@
 - Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API GSP037 **_DONE_**
 - Entity and Sentiment Analysis with the Natural Language API GSP038 **_DONE_**
 - Awwvision: Cloud Vision API from a Kubernetes Cluster GSP066 **_DONE_**
-- Integrate with Machine Learning APIs: Challenge Lab
+- Integrate with Machine Learning APIs: Challenge Lab **_DONE_**
 
 ## 8. BigQuery Basics for Data Analysts _Fundamental_
 - Introduction to SQL for BigQuery and Cloud SQL GSP281 **_DONE_** _https://www.youtube.com/watch?v=eUYPEdoozaM_
 - BigQuery: Qwik Start - Console GSP072 **_DONE_** _https://www.youtube.com/watch?v=-p13pMrYL8A_
 - Exploring Your Ecommerce Dataset with SQL in Google BigQuery GSP407 **_DONE_** _https://www.youtube.com/watch?v=oxPZ7t7w8N8_
 - Troubleshooting Common SQL Errors with BigQuery
-- Explore and Create Reports with Data Studio
+- Explore and Create Reports with Data Studio **_DONE_**
 
 ## 9. BigQuery for Marketing Analysts _Fundamental_
 - Exploring Your Ecommerce Dataset with SQL in Google BigQuery GSP407 **_DONE_** _https://www.youtube.com/watch?v=oxPZ7t7w8N8_
@@ -85,13 +85,13 @@
 - Build and Execute MySQL, PostgreSQL, and SQLServer to Data Catalog Connectors **_DONE_**
 
 ## 11. Building Codeless Pipelines on Cloud Data Fusion _Fundamental_
-- Getting Started with Cloud Data Fusion
-- Building Batch Pipelines in Cloud Data Fusion
-- Building Transformations and Preparing Data with Wrangler in Cloud Data Fusion
-- Building Realtime Pipelines in Cloud Data Fusion
+- Getting Started with Cloud Data Fusion **_DONE_**
+- Building Batch Pipelines in Cloud Data Fusion **_DONE_**
+- Building Transformations and Preparing Data with Wrangler in Cloud Data Fusion **_DONE_**
+- Building Realtime Pipelines in Cloud Data Fusion **_DONE_**
 
 ## 12. Data Science on Google Cloud _Advanced_
-- Introduction to SQL for BigQuery and Cloud SQL  **_DONE_** _https://www.youtube.com/watch?v=eUYPEdoozaM_
+- Introduction to SQL for BigQuery and Cloud SQL **_DONE_** _https://www.youtube.com/watch?v=eUYPEdoozaM_
 - Ingesting Data Into The Cloud
 - Loading Data into Google Cloud SQL
 - Visualizing Data with Google Data Studio
@@ -118,8 +118,8 @@
 - Cloud Composer: Copying BigQuery Tables Across Different Locations
 
 ## 15. Building Advanced Codeless Pipelines on Cloud Data Fusion _Advanced_
-- Building Dynamic Pipelines in Cloud Data Fusion Using Macros
-- Creating Reusable Pipelines in Cloud Data Fusion
+- Building Dynamic Pipelines in Cloud Data Fusion Using Macros GSP809 **_DONE_**
+- Creating Reusable Pipelines in Cloud Data Fusion **_DONE_**
 - Redacting Confidential Data within your Pipelines in Cloud Data Fusion
 - Exploring the Lineage of Data with Cloud Data Fusion
 
