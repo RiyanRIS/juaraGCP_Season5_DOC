@@ -135,4 +135,3 @@
 - Tracking Cryptocurrency Exchange Trades with Google Cloud Platform in Real-Time
 - Getting Started with Blockchain on GCP using Hyperledger Fabric and Composer
 - Exploring the Public Cryptocurrency Datasets Available in BigQuery
- 
