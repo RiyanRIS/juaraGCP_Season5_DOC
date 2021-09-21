@@ -120,8 +120,8 @@
 ## 15. Building Advanced Codeless Pipelines on Cloud Data Fusion _Advanced_
 - Building Dynamic Pipelines in Cloud Data Fusion Using Macros GSP809 **_DONE_**
 - Creating Reusable Pipelines in Cloud Data Fusion **_DONE_**
-- Redacting Confidential Data within your Pipelines in Cloud Data Fusion
-- Exploring the Lineage of Data with Cloud Data Fusion
+- Redacting Confidential Data within your Pipelines in Cloud Data Fusion **_DONE_**
+- Exploring the Lineage of Data with Cloud Data Fusion **_DONE_**
 
 ## 16. NCAA® March Madness®: Bracketology with Google Cloud _Fundamental_
 - Using BigQuery in the Google Cloud Console GSP406 **_DONE_**
@@ -135,3 +135,4 @@
 - Tracking Cryptocurrency Exchange Trades with Google Cloud Platform in Real-Time
 - Getting Started with Blockchain on GCP using Hyperledger Fabric and Composer
 - Exploring the Public Cryptocurrency Datasets Available in BigQuery
+ 
